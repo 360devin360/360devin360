@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E615&random=false&width=435&lines=App+Academy+Student)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @360devin360
 - 🌱 I’m currently learning about software development online at Purdue University and I am enrolled in an App Academy bootcamp.
 - 👀 I’m interested in learning how to code to build software such as games or data infrastructures.
