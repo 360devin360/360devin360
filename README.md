@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E615&random=false&width=435&lines=App+Academy+Student)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @360devin360
-- 🌱 I’m currently learning about software development online at Purdue University and I am enrolled in an App Academy bootcamp.
-- 👀 I’m interested in learning how to code to build software such as games or data infrastructures.
-- 💞️ I’m looking to collaborate on beginner projects and would like to start helping refactor code.
+- 👋 Hi, I’m Devin Sharp or @360devin360
+- 🌱 I’m currently learning about software development online at Purdue University and I am enrolled in the App Academy bootcamp.
+- 👀 I’m interested in developing my coding skills to build software tech such as database infrustructures using laguages like SQL.
+- 💞️ I'm coloaborating on projects  and would like to start reviewing open source code.
 - 📫 To reach me, message me here on Github, at Devin Sharp on Slack, at devinsharp1991 on Linkedin or 3sixTEA on reddit.
 
 <!---
