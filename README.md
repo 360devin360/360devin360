@@ -3,7 +3,6 @@
   <h1>
     <p>Hello 👋</p>
   </h1>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&multiline=true&random=false&width=435&height=109&lines=I+am+currently+learning+software;development+at+App+Academy;and+Purdue+University+Global.)](https://git.io/typing-svg)
 
 
