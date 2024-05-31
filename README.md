@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E615&random=false&width=435&lines=App+Academy+Student)](https://git.io/typing-svg)
 
   <h1>
-    <p>hello</p>
+    <p>Hello</p>
   </h1>
 
 
