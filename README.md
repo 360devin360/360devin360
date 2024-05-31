@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E615&random=false&width=435&lines=App+Academy+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E615&random=false&width=435&lines=App+Academy+Student;Purdue+University+Global+Student)](https://git.io/typing-svg)
 
   <h1>
     <p>Hello 👋</p>
