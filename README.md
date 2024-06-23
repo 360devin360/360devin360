@@ -17,5 +17,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p width="100%" align="center">
-  <img height=200 align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=360devin360&layout=compact' alt='most-used-langs'/>
+  <a href="https://github.com/360devin360?tab=repositories">
+    <img height=200 align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=360devin360&layout=compact' alt='most-used-langs'/>
+  </a>
 </p>
