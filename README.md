@@ -7,17 +7,45 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&multiline=true&random=false&width=435&height=109&lines=I+am+currently+learning+software;development+at+App+Academy;and+Purdue+University+Global.)](https://git.io/typing-svg)
 
 <p width="100%" align="center">
-  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt="html"/>
+  </a>
 </p>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<p width="100%" align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt="css3"/>
+  </a>
+</p>
+<p width="100%" align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript"/>
+  </a>
+</p>
+<p width="100%" align="center">
+  <a href="https://expressjs.com/">
+    <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' alt="express"/>
+  </a>
+</p>
+<p width="100%" align="center">
+  <a href="https://react.dev/">
+    <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt="react"/>
+  </a>
+</p>
+<p width="100%" align="center">
+  <a href="https://redux.js.org/">
+    <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' alt="redux"/>
+  </a>
+</p>
+<p width="100%" align="center">
+  <a href="https://www.sqlite.org/docs.html">
+    <img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white' alt="sqlite"/>
+  </a>
+</p>
+<p width="100%" align="center">
+  <a href="https://git-scm.com/doc">
+    <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt="git"/>
+  </a>
+</p>
 <p width="100%" align="center">
   <a href="https://github.com/360devin360?tab=repositories">
     <img height=200 align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=360devin360&layout=compact' alt='most-used-langs'/>
