@@ -31,6 +31,8 @@
   <a href="https://git-scm.com/doc">
     <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt="git"/>
   </a>
+</p>
+<p width="100%" align="center">
   <a href="https://github.com/360devin360?tab=repositories">
     <img height=200 align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=360devin360&layout=compact' alt='most-used-langs'/>
   </a>
