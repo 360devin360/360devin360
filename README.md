@@ -6,6 +6,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1&multiline=true&random=false&width=435&height=109&lines=I+am+currently+learning+software;development+at+App+Academy;and+Purdue+University+Global.)](https://git.io/typing-svg)
 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,5 +17,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p width="100%" align="center">
-  <img height=200 align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=360devin360&layout=compact'/>
+  <img height=200 align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=360devin360&layout=compact' alt='most-used-langs'/>
 </p>
